@@ -34,3 +34,28 @@ Esperado:
 - [ ] Rodapé com link para a categoria e para o menu principal
 - [ ] Link no menu.md apontando para o arquivo da receita
 - [ ] PR com 3 aprovações
+
+````
+## 3 Regras para PR 
+
+Após fazer o push da sua branch, abra um PR para a main contendo o título `feat: adicionar receita <nome-da-receita> `  ou `docs: atualizar menu com link para <nome-da-receita>` e a descrição preenchida com o modelo abaixo:
+
+```markdown
+## O que foi feito
+Adição da receita de <nome-da-receita> no arquivo `<categoria>/<nome-da-receita>.md` e inclusão do respectivo link na seção **Receitas** do `menu.md`.
+```
+ou 
+```markdown
+Atualização do `menu.md` com link para <nome-da-receita>`
+````
+e completar com 
+
+```markdown
+
+## Checklist de Autoavaliação
+- [ ] Arquivo `<categoria>/<nome-da-receita>.md` criado seguindo a estrutura da atividade 
+- [ ] Rodapé de navegação adicionado no fim do arquivo e testado 
+- [ ] Link da receita adicionado na seção **Receitas** do `menu.md` e testado
+
+## Issue relacionada 
+**Closes #<numero-da-issue>**
