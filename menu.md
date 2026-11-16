@@ -1,4 +1,4 @@
-# Livro de Receitas – Byte Gourmet 
+# Livro de Receitas – PacocaScript
   
 Bem-vindo ao nosso livro colaborativo de receitas! 
 Aqui reunimos pratos deliciosos criados pela equipe PacocaScript. 
