@@ -11,3 +11,4 @@ Aqui reunimos pratos deliciosos criados pela equipe PacocaScript.
 - [Sobremesas](sobremesas/) 
   
 ## Receitas -
+- [Carne de Panela](carnes/carne-de-panela.md)
