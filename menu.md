@@ -12,3 +12,5 @@ Aqui reunimos pratos deliciosos criados pela equipe PacocaScript.
   
 ## Receitas -
 - [Salada de Macarrão](saladas/salada-de-macarrao.md)
+
+- [Lasanha de Frango com Queijo](massas/lasanha-de-frango-com-queijo.md)
