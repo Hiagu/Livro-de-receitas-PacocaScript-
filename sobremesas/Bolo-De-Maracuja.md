@@ -36,3 +36,7 @@
 
 [Voltar à Categoria](.) | [Voltar ao Menu Principal](../menu.md)
 
+<<<<<<< Updated upstream
+=======
+https://www.receiteria.com.br/receita/bolo-de-maracuja-com-cobertura-de-chocolate/
+>>>>>>> Stashed changes
