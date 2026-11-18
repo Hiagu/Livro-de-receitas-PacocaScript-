@@ -34,5 +34,5 @@
 2. Acrescente o creme de leite e mexa bem até formar uma ganache lisa, brilhante e homogênea.
 3. Cubra o bolo com a calda e se quiser decore com granulado.
 
-[Voltar ao Menu Principal](../menu.md)
+[Voltar à Categoria](.) | [Voltar ao Menu Principal](../menu.md)
 
