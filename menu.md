@@ -12,3 +12,4 @@ Aqui reunimos pratos deliciosos criados pela equipe PacocaScript.
   
 ## Receitas -
 - [Salada de Macarrão](saladas/salada-de-macarrao.md)
+- [Paçoca](sobremesas/pacoca.md)
