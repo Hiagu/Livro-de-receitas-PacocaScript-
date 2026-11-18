@@ -14,3 +14,4 @@ Aqui reunimos pratos deliciosos criados pela equipe PacocaScript.
 - [Carne de Panela](carnes/carne-de-panela.md)
 - [Salada de Macarrão](saladas/salada-de-macarrao.md)
 - [Strogonoff de Frango](carnes/strogonoff.md)
+- [Lasanha de Frango com Queijo](massas/lasanha-de-frango-com-queijo.md)
