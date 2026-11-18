@@ -13,6 +13,9 @@ Aqui reunimos pratos deliciosos criados pela equipe PacocaScript.
 ## Receitas -
 - [Carne de Panela](carnes/carne-de-panela.md)
 - [Salada de Macarrão](saladas/salada-de-macarrao.md)
+
+- [Sopa de Morcego](sopas/sopa-de-morcego.md)
+
 - [Paçoca](sobremesas/pacoca.md)
 
 
