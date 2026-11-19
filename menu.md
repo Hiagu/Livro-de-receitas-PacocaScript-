@@ -29,5 +29,5 @@ Aqui reunimos pratos deliciosos criados pela equipe PacocaScript.
 
 - [Strogonoff de Frango](carnes/strogonoff.md)
 
-- [Sopa de Macarrão](Sopas/SopaDeMacarrão.md)
+- [Sopa de Macarrão](sopas/SopaDeMacarrão.md)
 
