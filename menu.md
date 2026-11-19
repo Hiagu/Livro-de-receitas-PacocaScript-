@@ -24,6 +24,8 @@ Aqui reunimos pratos deliciosos criados pela equipe PacocaScript.
 - [Salada de Maionese Cremosa](saladas/SaladaDeMaioneseCremosa.md)
 
 - [Lasanha de Frango com Queijo](massas/lasanha-de-frango-com-queijo.md)
+- [pão de queijo](massas/pão-de-queijo.md)
+  
 
 - [Strogonoff de Frango](carnes/strogonoff.md)
 
