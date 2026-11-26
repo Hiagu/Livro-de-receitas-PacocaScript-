@@ -4,7 +4,7 @@
 Uma Issue só pode ser assumida por alguém quando:
 - [ ] Tem título claro no padrão `[Receita] <Nome> - <Categoria>`
 - [ ] Está escrita no formato Como / Quero / Para que
-- [ ] Indica a persona beneficiada (Lucas ou Mariana, definidas em docs/PERSONAS.md)
+- [ ] Indica a persona beneficiada (Guilhermer Silva e Márcia Sousa  , definidas em docs/PERSONAS.md)
 - [ ] Tem a categoria definida (ex.: saladas, carnes, sopas, massas, sobremesas)
 - [ ] Tem pelo menos 2 critérios de aceitação em checklist
 - [ ] Tem a label `user-story` e cita o épico pai
